@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply min-h-screen;
+  background: radial-gradient(circle at top left, #1e293b, #0f172a);
+  color: #f9fafb;
+}
